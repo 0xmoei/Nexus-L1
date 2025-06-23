@@ -129,7 +129,7 @@ nexus-network register-node
 ```
 nexus-network start
 ```
-* The `register-user` and `register-node` commands will save your credentials to `~/.nexus/credentials.json`. To clear credentials, run:
+* The `register-user` and `register-node` commands will save your credentials to `~/.nexus/config.json`. To clear credentials, run:
 ```bash
 nexus-network logout
 ```
